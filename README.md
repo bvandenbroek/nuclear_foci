@@ -1,4 +1,4 @@
-# nuclear_foci
+# nuclear foci
 A macro to automatically quantify the foci (e.g. DNA damage) in immunofluorescence images.
 
 Input images are read with BioFormats and should have at least two channels: a foci channel and a nuclear marker channel (e.g. DAPI)
